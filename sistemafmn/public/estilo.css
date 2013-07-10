@@ -1,0 +1,184 @@
+body {
+    font-family: Verdana, Arial, Helvetica, sans-serif; 
+    text-align:  center;
+}
+
+#contenedor{ 
+    width: 766px; 
+    background-color: #ffffcc;
+    margin:0 auto;
+} 
+a:link {
+    text-decoration:none;
+    font-size: 10px;
+}
+a:visited {
+    text-decoration:none;
+    font-size: 10px;
+}
+
+#cabecera {
+    border: 0px;
+}  
+.centrar-imagen {
+    text-align: center;
+    margin: auto;
+}
+#centrar{
+    margin: auto;
+    text-align: center;
+}
+
+
+
+#izquierda {
+    float: left;
+    margin: auto;
+    width:400px;
+}
+#izquierda img{
+    margin:  auto;
+
+}
+#derecha {
+    float: left;
+    margin: auto;
+    background-color: #ffffcc;
+    width:366px;
+
+    height: 288px;
+}
+label { text-align: right}
+
+
+
+h5 h2 {
+    font-size: 10px;    
+    color: #0000cc;
+    text-align: left;
+    font-weight: bold;
+}
+
+
+
+.Estilo1 {
+    font-size: 12px;    
+    color: #0000cc;
+    font-weight: bold;
+}
+.sesion{
+    font-size: 12px;    
+    color: #0000cc;
+    font-weight: bold;
+    text-align: left;
+}
+.Estilo2 { 
+    font-size: 12px;
+    color: #FF0000;
+    font-weight: bold;
+}
+.Estilo3 {
+    font-size: 10px;
+    color: #FF0000;
+}
+.Estilo4 {
+    font-size: 10px; 
+}
+
+.Estilodatos {
+    font-size: 11px; 
+    text-align: left;
+}
+div.Estilo7 {
+    text-align: center;
+    font-size: 16px;
+    font-weight: bold;
+
+    margin-top: auto;
+    color: #0000cc;
+    padding-right: 16px;
+    padding-left: 16px;
+    padding-bottom: 16px;
+    padding-top: 16px;
+}
+.Estilo7 {
+    text-align: center;
+    font-size: 12px;
+    font-weight: bold;
+    color: #0000cc;
+    margin-top: auto;
+
+}
+#menu a {color: indianred; display:block; text-decoration:none; margin: 1px; font-weight: bold}
+#menu a:link {}
+#menu a:hover {color: #FFFFFF; background-color:#6599ff}
+#menu a:active {color: #99FFFF}
+#menu a:visited {
+}
+
+table {
+    border-collapse:collapse;
+    border:1px solid indianred;
+    margin: auto;
+}
+
+
+td {border:1px solid maroon;
+    font-size:10px;
+}
+#tabla1 tr:hover {
+  background: #FFFF66;
+}
+table.tinicial{
+    border-collapse:collapse;
+    border:0;
+    margin: auto;
+
+    background-color: #e8e8e8;
+}
+table.tinicial td{
+    border: 0 ;
+    font-size: 8px;
+    text-align:center ;
+
+}
+
+a image{
+    border: none;  
+}
+.button {
+    text-align: center;
+}
+.buscar{
+    border: 0;
+    border-style: none;
+
+}
+.mov{
+    background-color: silver;
+
+    color: white;
+    font-weight: bold;
+    text-align: left;
+    font-size: 12px;
+}
+.fecha{
+    font-size: 12px;    
+    color: #0000cc;
+    text-align: right;
+    font-weight: bold;
+
+}
+#fondo{
+
+    background-image: url(images/head_fmn.jpg);
+    height: 300px;
+    background-repeat: no-repeat;
+    vertical-align: middle;
+}
+#fondo p{
+    font-size: 18px;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+}
